@@ -1,4 +1,4 @@
-# TCA8414-library
+# TCA8418-library
 Easy and simple C++ library for the TCA8418.
 
 ## What is the TCA8418?
